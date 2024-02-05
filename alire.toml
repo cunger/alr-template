@@ -1,0 +1,9 @@
+name = "myproject"
+description = "Alire prject template"
+version = "0.1.0-dev"
+
+authors = ["name"]
+maintainers = ["name <email>"]
+maintainers-logins = ["github user name"]
+
+executables = ["main"]
