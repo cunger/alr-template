@@ -1,5 +1,5 @@
 name = "tests"
-description = "Unit tests for myproject"
+description = "Unit tests for the Protohackers solutions"
 version = "0.1.0-dev"
 
 executables = ["tests"]

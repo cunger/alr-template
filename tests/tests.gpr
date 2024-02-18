@@ -1,4 +1,4 @@
-with "../myproject";
+with "../protohackers";
 with "aunit";
 
 project Tests is
